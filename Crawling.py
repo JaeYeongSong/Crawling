@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import requests
-import sys
 
 # 홈페이지 주소 가져오기
 url = "https://search.naver.com/search.naver?where=news&sm=tab_jum&query=뉴스"
