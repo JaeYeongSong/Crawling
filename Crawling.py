@@ -8,6 +8,4 @@ url = "https://search.naver.com/search.naver?where=news&sm=tab_jum&query=뉴스"
 html = requests.get(url)
 bs_html = BeautifulSoup(html.content, "html.parser")
 
-sys.stdout = open('Crawling.txt', 'w', encoding='UTF-8')
-
-print(bs_html) # 웹 페이지 txt 파일로 출력
+print(bs_html) # 웹 페이지 출력
