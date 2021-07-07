@@ -1,7 +1,6 @@
 import datetime
 import filecmp
 import requests
-import threading
 import os
 from time import localtime, strftime
 
