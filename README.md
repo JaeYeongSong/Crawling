@@ -1,7 +1,5 @@
 # Crawling
 Tistory 블로그 Xsop - https://xsop.tistory.com  
-네이버 블로그 Xsop - https://blog.naver.com/xsop-blog
-
 Crawling.py 원하는 웹 페이지 코드 크롤링  
 
 Save_Crawling.py 웹 페이지 크롤링 코드 txt 파일로 저장  
